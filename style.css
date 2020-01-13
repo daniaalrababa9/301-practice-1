@@ -5,18 +5,20 @@ header {
 
 footer {
     background-color: darkgray;
-    color: black
+    color: black;
+    margin-top: 50%;
 }
 
 ul {
-    background-color: navajowhite;
+    background-color: rgb(223, 208, 187);
     color: darkblue;
     list-style-type: none;
+    float: left;
 }
 
 li {
     display: inline-block;
-    background-color: darkgoldenrod;
+    background-color: rgb(177, 169, 148);
     border: 1px solid black;
     padding: 20px;
 }
