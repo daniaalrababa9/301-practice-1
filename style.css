@@ -1,0 +1,22 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: darkgray;
+    color: black
+}
+
+ul {
+    background-color: navajowhite;
+    color: darkblue;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    background-color: darkgoldenrod;
+    border: 1px solid black;
+    padding: 20px;
+}
